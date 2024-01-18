@@ -1,2 +1,13 @@
 # LinuxBaseCourse
-Base course of linux. Basic commands, theory, etc
+Base course of linux. Basic commands, theory, etc  
+Курс любезно предоставлен студентом группы Сетевого и Системного Администрирования Артемием GSZmaZ Поляковым. Выражаю ему огромную благодарность!
+---
+tags:
+  - Linux
+  - Курс
+---
+Это текстовая и немного расширенная версия видео курса. Так же хочу отметить, что я не являюсь автором, просто решил оформить это обучение в более удобном для меня виде.
+
+Начало курса: [[Урок 1.0, Почему Linux?|Начало]]
+
+# Видео курс оригинала: https://www.youtube.com/playlist?list=PLAixKCwWV1dALYSme2mulhcdiXkI-bJC2
